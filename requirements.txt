@@ -1,0 +1,2 @@
+# pip install git+https://github.com/openai/CLIP.git
+# t2.medium AWS instance, 200GB storage (no CUDA)
